@@ -1,0 +1,1 @@
+** eZ Multi value class view template **
